@@ -1,0 +1,33 @@
+
+body{
+    background-color: #1B244A;
+}
+
+.container {
+    display:flex;
+    margin-top: 100px;
+}
+
+.headings {
+    color: #EEEEEE;
+    line-height: 35.9px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.homeSide {
+   background-color:red;
+   width: 500px;
+   margin-left: 100px;
+   margin-right: 130px;
+   text-align: center;
+   
+
+}
+
+.guestSide {
+    background-color: greenyellow;
+    width: 500px;
+    text-align: center;
+
+}
