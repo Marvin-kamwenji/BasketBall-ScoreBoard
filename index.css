@@ -16,7 +16,6 @@ body{
 }
 
 .homeSide {
-   background-color:red;
    width: 500px;
    margin-left: 100px;
    margin-right: 130px;
@@ -26,8 +25,50 @@ body{
 }
 
 .guestSide {
-    background-color: greenyellow;
     width: 500px;
     text-align: center;
 
+}
+
+.scoreboard {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 60px;
+}
+
+.scores {
+    color: #F94F6D;
+    font-weight: bold;
+    font-size: 90px;
+}
+
+.footerAdditions {
+    color: white;
+}
+
+.addOne {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 25px;
+    margin-right: 7px;
+}
+
+.äddTwo {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 25px;
+    margin-right: 7px;
+}
+.addThree {
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 25px;
 }
